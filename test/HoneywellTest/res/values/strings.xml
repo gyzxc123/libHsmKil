@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">ScannerTest</string>
-    <string name="single_shoot">single shoot</string>
-    <string name="continuous_shoot">continuous shoot</string>
-    <string name="exit_button">Exit</string>
-    <string name="clear_button">Clear</string>
-</resources>

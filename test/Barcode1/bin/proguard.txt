@@ -1,9 +1,0 @@
-# view AndroidManifest.xml #generated:17
--keep class com.honeywell.barcode1.Barcode1Activity { <init>(...); }
-
-# onClick res/layout/activity_main.xml #generated:12
--keepclassmembers class * { *** onClickExit(...); }
-
-# onClick res/layout/activity_main.xml #generated:29
--keepclassmembers class * { *** onClickScan(...); }
-
